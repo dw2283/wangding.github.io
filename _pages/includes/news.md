@@ -1,6 +1,8 @@
+<!--
 # 🔥 News
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2025.07*: 🎉 One paper are accepted by ICLR 2024
+- *2024.06*: 🎉 We released TransWorldNG, a powerful multi-agent simulation framework for intelligent transportation systems [TransWorldNG]([https://www.bilibili.com/video/BV1uM411t7ZJ](https://github.com/SACLabs/TransWorldNG)) 
+- *2022.03*: I join Shanghai Artificial Intelligence Laboratory as a researcher in Shanghai!
+- *2021.10*: Check out our multi-agent simulation test bed developed for New York City [MATSim-NYC](https://c2smarter.engineering.nyu.edu/development-and-tech-transfer-of-multi-agent-virtual-simulation-testbed-ecosystem/).
+-->
