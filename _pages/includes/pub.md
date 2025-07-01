@@ -1,7 +1,5 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
