@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models \\
