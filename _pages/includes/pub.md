@@ -1,6 +1,72 @@
+# 📝 Publications 
 
+- [Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments](https://arxiv.org/abs/2505.19699)  
+  J Liu, Y Gao, S Meng, Y Sun, A Wu, Y Jin, Y Chen, **Ding Wang**, G Zeng
+
+- [RAKG: Document-level Retrieval Augmented Knowledge Graph Construction](https://arxiv.org/abs/2504.09823)  
+  H Zhang, J Si, G Yan, B Qi, P Cai, S Mao, **Ding Wang**, B Shi
+
+- [FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments](https://arxiv.org/abs/2504.09941)  
+  J Liu, G Zeng, **Ding Wang**, Y Gao, Y Jin
+
+- [HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330)  
+  P Liu, X Liu, R Yao, J Liu, S Meng, **Ding Wang**, J Ma
+
+- [Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972)  
+  J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, ...
+
+- [Assessing the Impact of Electric Vehicles on Traffic Emissions: An Agent-Based Modeling Approach considering Traveler Behavior Changes](https://www.sciencedirect.com/science/article/pii/S1877050923005630)  
+  **Ding Wang**, M Tayarani, J Gao, Z Bian, K Ozbay, HO Gao, JYJ Chow
+
+- [An agent-based urban simulation to assess the system-wide, spatial, and modal impacts of the deployment of an automated vehicle corridor with mixed traffic: a case study in New York City](https://www.sciencedirect.com/science/article/pii/S1877050923000583)  
+  H Alnajjar, K Ozbay, **Ding Wang**, L Iftekhar
+
+- [Evolutionary City: Towards a Flexible, Agile and Symbiotic System](https://arxiv.org/abs/2311.14690)  
+  X Chen, W Hu, J Yu, **Ding Wang**, S Yao, Y Lin, FY Wang
+
+- [Autonomous Services: The Evolution of Services Through Intelligent Vehicles](https://ieeexplore.ieee.org/document/10075794)  
+  Z Jing, L Li, Y Lyu, R Wang, Y Wang, **Ding Wang**, FY Wang
+
+- [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/document/10232545)  
+  J Yu, Y Yu, S Yao, **Ding Wang**, P Cai, H Li, L Li, FY Wang, Y Lin
+
+- [Transworldng: Traffic simulation via foundation model](https://ieeexplore.ieee.org/document/10232544)  
+  **Ding Wang**, X Wang, L Chen, S Yao, M Jing, H Li, S Bao, L Li, FY Wang, ...
+
+- [Building transportation foundation model via generative graph transformer](https://ieeexplore.ieee.org/document/10232547)  
+  X Wang, **Ding Wang**, L Chen, FY Wang, Y Lin
+
+- [Mobility 5.0: Smart logistics and transportation services in cyber-physical-social systems](https://ieeexplore.ieee.org/document/10108991)  
+  Y Lin, X Na, **Ding Wang**, X Dai, FY Wang
+
+- [Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component](https://doi.org/10.1177/03611981221109434)  
+  **Ding Wang**, K Ozbay
+
+- [Mobility in Post-Pandemic under Social Distancing Guidelines: Congestion, Emission and Transit Contact Network](https://www.ctech.nyc)  
+  **Ding Wang**, M Tayarani, Y He, J Gao, O Gao, K Ozbay
+
+- [Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit](https://doi.org/10.1016/j.ijtst.2021.10.001)  
+  **Ding Wang**, BY He, J Gao, JYJ Chow, K Ozbay, S Iyer
+
+- [A validated multi-agent simulation test bed to evaluate congestion pricing policies on population segments by time-of-day in New York City](https://doi.org/10.1016/j.tranpol.2021.01.006)  
+  BY He, J Zhou, Z Ma, **Ding Wang**, D Sha, M Lee, JYJ Chow, K Ozbay
+
+- [A Transportation Network Modeling and Simulation Study to Efficiently Respond to Hurricanes and Pandemics in New York City](https://engineering.nyu.edu)  
+  **Ding Wang**
+
+- [Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit](https://doi.org/10.1016/j.tra.2021.03.005)  
+  **Ding Wang**, M Tayarani, BY He, J Gao, JYJ Chow, OH Gao, K Ozbay
+
+- [Modeling and Analysis Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation](https://doi.org/10.3390/su13174444)  
+  **Ding Wang**, K Ozbay, Z Bian
+
+
+
+<!--
 # 📝 Publications 
 ## 🎙 Speech Synthesis
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
@@ -134,3 +200,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Others
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+
+
+-->
