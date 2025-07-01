@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Ding Wang (王锭)"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
-  location         : "Singapore"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en"
-  email            : "wangding@gmail.com"
+  email            : "wangding.mellissa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : #"rayeren"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
