@@ -2,11 +2,11 @@
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang**
 
 [**Project**](https://github.com/Wings-Of-Disaster/VaLiK) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
