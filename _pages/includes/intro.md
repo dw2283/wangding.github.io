@@ -1,6 +1,7 @@
 
 
-I am currently working on knowledge platform development and agentic systems to advance intelligent system design. If you are seeking any form of **academic cooperation**, please feel free to email me at [wangding@pjlab.org.cn](mailto:rayeren613@gmail.com). We are hiring interns!
+I am currently working on knowledge platform development and agentic systems to advance intelligent system design. If you are seeking any form of **academic cooperation**, please feel free to email me at [wangding@pjlab.org.cn](mailto: wangding@pjlab.org.cn) or [wangding.mellissa@gmail.com](mailto: wangding.mellissa@gmail.com) . 
+<span class="red-text">We are hiring interns!</span>
 
 I received my Ph.D. from New York University, where I focused on large-scale multi-agent simulations for mobility in smart cities. Prior to that, I obtained both my bachelor’s and master’s degrees in Transportation Engineering and Planning from Beijing Jiaotong University. 
 
