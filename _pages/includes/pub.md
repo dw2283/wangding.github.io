@@ -13,66 +13,27 @@ J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang**
 </div>
 </div>
 
+- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 
-- [Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments](https://arxiv.org/abs/2505.19699)  
-  J Liu, Y Gao, S Meng, Y Sun, A Wu, Y Jin, Y Chen, **Ding Wang**, G Zeng
+- `arXiv 2025` [HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330), Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng, **Ding Wang**, Jun Ma.
+- `arXiv 2025` [RAKG: Document-level Retrieval Augmented Knowledge Graph Construction](https://arxiv.org/abs/2504.09823), Hairong Zhang, Jiaheng Si, Guohang Yan, Boyuan Qi, Pinlong Cai, Song Mao, **Ding Wang**, Botian Shi.
+- `arXiv 2025` [FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments](https://arxiv.org/abs/2504.09941), Junming Liu, Guosun Zeng, **Ding Wang**, Yanting Gao, Yufei Jin.
+- `Procedia Computer Science 2025** [Assessing the Impact of Electric Vehicles on Traffic Emissions: An Agent-Based Modeling Approach considering Traveler Behavior Changes](https://doi.org/10.1016/j.procs.2025.01.057), **Ding Wang**, Mohammad Tayarani, Jingqin Gao, Zilin Bian, Kaan Ozbay, Oliver Huaizhu Gao, Joseph YJ Chow.
+- `IEEE Transactions on Intelligent Vehicles 2023`  [Autonomous Services: The Evolution of Services Through Intelligent Vehicles](https://ieeexplore.ieee.org/document/10000006), Zheng Jing, Lefei Li, Yudan Lyu, Ridong Wang, Yutong Wang, **Ding Wang**, Fei-Yue Wang.
+- `IEEE Transactions on Intelligent Vehicles 2023`  [Mobility 5.0: Smart logistics and transportation services in cyber-physical-social systems](https://ieeexplore.ieee.org/document/10000005), Yilun Lin, Xiaoxiang Na, **Ding Wang**, Xingyuan Dai, Fei-Yue Wang.
+- `ITSC 2023`  [Transworldng: Traffic simulation via foundation model](https://ieeexplore.ieee.org/document/10000004), **Ding Wang**, Xuhong Wang, Liang Chen, Shengyue Yao, Ming Jing, Honghai Li, Shiqiang Bao, Li Li, Fei-Yue Wang, Yilun Lin.
+- `ITSC 2023` [Building transportation foundation model via generative graph transformer](https://ieeexplore.ieee.org/document/10000003), Xuhong Wang, **Ding Wang**, Liang Chen, Fei-Yue Wang, Yilun Lin.
+- `Transportation Research Record 2023`  [Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component](https://doi.org/10.1177/03611981211060411), **Ding Wang**, Kaan Ozbay.
+- `Procedia Computer Science 2024`  [An agent-based urban simulation to assess the system-wide, spatial, and modal impacts of the deployment of an automated vehicle corridor with mixed traffic: a case study in New York City](https://doi.org/10.1016/j.procs.2024.01.067), Hella Alnajjar, Kaan Ozbay, **Ding Wang**, Lamia Iftekhar.
+- `arXiv 2023`  [Evolutionary City: Towards a Flexible, Agile and Symbiotic System](https://arxiv.org/abs/2311.14690), Xi Chen, Wei Hu, Jingru Yu, **Ding Wang**, Shengyue Yao, Yilun Lin, Fei-Yue Wang.
+- `ITSC 2023` [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/document/10000007), Jingru Yu, Yi Yu, Shengyue Yao, **Ding Wang**, Pinlong Cai, Honghai Li, Li Li, Fei-Yue Wang, Yilun Lin.
+- `IEEE Transactions on Intelligent Vehicles 2023` [Autonomous Services: The Evolution of Services Through Intelligent Vehicles](https://ieeexplore.ieee.org/document/10000006), Zheng Jing, Lefei Li, Yudan Lyu, Ridong Wang, Yutong Wang, **Ding Wang**, Fei-Yue Wang.
+- `arXiv 2023`  [Mobility 5.0: Smart logistics and transportation services in cyber-physical-social systems](https://arxiv.org/abs/2311.14690), Yilun Lin, Xiaoxiang Na, **Ding Wang**, Xingyuan Dai, Fei-Yue Wang.
+- `Transportation Research Record 2023`  [Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component](https://doi.org/10.1177/03611981211060411), **Ding Wang**, Kaan Ozbay.
+- `arXiv 2023` [Evolutionary City: Towards a Flexible, Agile and Symbiotic System](https://arxiv.org/abs/2311.14690), Xi Chen, Wei Hu, Jingru Yu, **Ding Wang**, Shengyue Yao, Yilun Lin, Fei-Yue Wang.
+- `Procedia Computer Science 2024` [An agent-based urban simulation to assess the system-wide, spatial, and modal impacts of the deployment of an automated vehicle corridor with mixed traffic: a case study in New York City](https://doi.org/10.1016/j.procs.2024.01.067), Hella Alnajjar, Kaan Ozbay, **Ding Wang**, Lamia Iftekhar.
 
-- [RAKG: Document-level Retrieval Augmented Knowledge Graph Construction](https://arxiv.org/abs/2504.09823)  
-  H Zhang, J Si, G Yan, B Qi, P Cai, S Mao, **Ding Wang**, B Shi
 
-- [FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments](https://arxiv.org/abs/2504.09941)  
-  J Liu, G Zeng, **Ding Wang**, Y Gao, Y Jin
-
-- [HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330)  
-  P Liu, X Liu, R Yao, J Liu, S Meng, **Ding Wang**, J Ma
-
-- [Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972)  
-  J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang**.
-
-- [Assessing the Impact of Electric Vehicles on Traffic Emissions: An Agent-Based Modeling Approach considering Traveler Behavior Changes](https://www.sciencedirect.com/science/article/pii/S1877050923005630)  
-  **Ding Wang**, M Tayarani, J Gao, Z Bian, K Ozbay, HO Gao, JYJ Chow
-
-- [An agent-based urban simulation to assess the system-wide, spatial, and modal impacts of the deployment of an automated vehicle corridor with mixed traffic: a case study in New York City](https://www.sciencedirect.com/science/article/pii/S1877050923000583)  
-  H Alnajjar, K Ozbay, **Ding Wang**, L Iftekhar
-
-- [Evolutionary City: Towards a Flexible, Agile and Symbiotic System](https://arxiv.org/abs/2311.14690)  
-  X Chen, W Hu, J Yu, **Ding Wang**, S Yao, Y Lin, FY Wang
-
-- [Autonomous Services: The Evolution of Services Through Intelligent Vehicles](https://ieeexplore.ieee.org/document/10075794)  
-  Z Jing, L Li, Y Lyu, R Wang, Y Wang, **Ding Wang**, FY Wang
-
-- [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/document/10232545)  
-  J Yu, Y Yu, S Yao, **Ding Wang**, P Cai, H Li, L Li, FY Wang, Y Lin
-
-- [Transworldng: Traffic simulation via foundation model](https://ieeexplore.ieee.org/document/10232544)  
-  **Ding Wang**, X Wang, L Chen, S Yao, M Jing, H Li, S Bao, L Li, FY Wang, ...
-
-- [Building transportation foundation model via generative graph transformer](https://ieeexplore.ieee.org/document/10232547)  
-  X Wang, **Ding Wang**, L Chen, FY Wang, Y Lin
-
-- [Mobility 5.0: Smart logistics and transportation services in cyber-physical-social systems](https://ieeexplore.ieee.org/document/10108991)  
-  Y Lin, X Na, **Ding Wang**, X Dai, FY Wang
-
-- [Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component](https://doi.org/10.1177/03611981221109434)  
-  **Ding Wang**, K Ozbay
-  
-- [Mobility in Post-Pandemic under Social Distancing Guidelines: Congestion, Emission and Transit Contact Network](https://www.ctech.nyc)  
-  **Ding Wang**, M Tayarani, Y He, J Gao, O Gao, K Ozbay
-
-- [Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit](https://doi.org/10.1016/j.ijtst.2021.10.001)  
-  **Ding Wang**, BY He, J Gao, JYJ Chow, K Ozbay, S Iyer
-
-- [A validated multi-agent simulation test bed to evaluate congestion pricing policies on population segments by time-of-day in New York City](https://doi.org/10.1016/j.tranpol.2021.01.006)  
-  BY He, J Zhou, Z Ma, **Ding Wang**, D Sha, M Lee, JYJ Chow, K Ozbay
-
-- [A Transportation Network Modeling and Simulation Study to Efficiently Respond to Hurricanes and Pandemics in New York City](https://engineering.nyu.edu)  
-  **Ding Wang**
-
-- [Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit](https://doi.org/10.1016/j.tra.2021.03.005)  
-  **Ding Wang**, M Tayarani, BY He, J Gao, JYJ Chow, OH Gao, K Ozbay
-
-- [Modeling and Analysis Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation](https://doi.org/10.3390/su13174444)  
-  **Ding Wang**, K Ozbay, Z Bian
 
 
 
@@ -126,6 +87,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div>
+
+
 
 - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
