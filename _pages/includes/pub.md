@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
