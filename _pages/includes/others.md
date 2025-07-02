@@ -6,10 +6,10 @@
 
 
 # 📚 **Teaching Experience**
- *Simulation Tutorial for Dr. Kaan Ozbay, Data-driven Mobility Modeling and Simulation*, Spring 2019  
-*Guest Talk for Dr. Zhibin Chen, Simulation of Traffic*, Fall 2022  
-*Teaching Assistant for Dr. Wenxin Qiao, Traffic Design*, Fall 2016  
-*Teaching Assistant for Dr. Wenxin Qiao, Introduction to Traffic Engineering*, Spring 2016  
+- *Simulation Tutorial for Dr. Kaan Ozbay, Data-driven Mobility Modeling and Simulation*, Spring 2019  
+- *Guest Talk for Dr. Zhibin Chen, Simulation of Traffic*, Fall 2022  
+- *Teaching Assistant for Dr. Wenxin Qiao, Traffic Design*, Fall 2016  
+- *Teaching Assistant for Dr. Wenxin Qiao, Introduction to Traffic Engineering*, Spring 2016  
 
 # 🛠 **Services**
 
