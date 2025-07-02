@@ -1,6 +1,16 @@
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR Part A: Policy and Practice 2021</div><img src='images/matsim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit \\
+**Ding Wang**, Mohammad Tayarani, Brian Yueshuai He, Jingqin Gao, Joseph YJ Chow, Oliver Huaizhu Gao, Kaan Ozbay.
+
+[**Project**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
