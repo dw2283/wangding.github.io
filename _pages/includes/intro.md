@@ -7,6 +7,8 @@ I received my Ph.D. from New York University, where I focused on large-scale mul
 My research interests include the development of knowledge platforms and knowledge graphs (KG), artificial intelligence (AI), retrieval-augmented generation (RAG), and agentic systems, with a particular focus on designing intelligent systems. I have published 20+ papers at top journals and international conferences.  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Profile-blue?logo=Google-Scholar&style=flat)](https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en) 
 href='https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
+I have published 20+ papers at top journals and international conferences. <a href='https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+
 
 # 📖 Educations
 - *2011.09 - 2015.07*, PhD, New York University, NYC, US.
