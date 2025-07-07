@@ -5,6 +5,13 @@ I am currently working on knowledge platform development and agentic systems to 
 I received my Ph.D. from New York University, where I focused on large-scale multi-agent simulations for mobility in smart cities. Prior to that, I obtained both my bachelor’s and master’s degrees in Transportation Engineering and Planning from Beijing Jiaotong University. 
 
 My research interests include the development of knowledge platforms and knowledge graphs (KG), artificial intelligence (AI), retrieval-augmented generation (RAG), and agentic systems, with a particular focus on designing intelligent systems. I have published 20+ papers at top journals and international conferences.  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Profile-blue?logo=Google-Scholar&style=flat)](https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en) 
+href='https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+
+
+# 📖 Educations
+- *2011.09 - 2015.07*, PhD, New York University, NYC, US.
+- *2015.09 - 2017.07*, Master, Beijing Jiaotong University, Beijing, China.
+- *2017.09 - 2022.01*, Undergraduate, Beijing Jiaotong University, Beijing, China.
 
 <!-- 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
