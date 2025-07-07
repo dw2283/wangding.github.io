@@ -4,14 +4,14 @@ main:
     url: "#about-me"
 
   - title: "News"
-    url: "#-news"
+    url: "#news"
 
-  - title: "publications"
-    url: "#-publications"
+  - title: "Publications"
+    url: "#publications"
 
-  - title: "honers"
-    url: "#-honers"
+  - title: "Honers"
+    url: "#honers"
 
-  - title: "others"
-    url: "#-others"
+  - title: "Others"
+    url: "#others"
 
