@@ -1,5 +1,6 @@
 
 # 🔥 News
+- *2025.07*: 🎉 [HMRAG](https://github.com/ocean-luna/HMRAG) is accepted at ACM MM 2025!
 - *2025.07*: 🎉 [Valik](https://github.com/Wings-Of-Disaster/VaLiK) is accepted at ICCV 2025. See you in Hawaii!
 - *2024.06*: We released TransWorldNG, a powerful multi-agent framework for mobility simulation [TransWorldNG](https://github.com/SACLabs/TransWorldNG). 
 - *2023.09*: 🎉 Serval papers are accepted to ITSC 2023. See you in Bilbao，Spain!
