@@ -7,9 +7,9 @@ I received my Ph.D. from New York University, where I focused on large-scale mul
 My research interests include the development of knowledge platforms and knowledge graphs (KG), artificial intelligence (AI), retrieval-augmented generation (RAG), and agentic systems, with a particular focus on designing intelligent systems. I have published 20+ papers at top journals and international conferences.  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Profile-blue?logo=Google-Scholar&style=flat)](https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en) 
 
 # 📖 Educations
-- *2011.09 - 2015.07*, PhD, New York University, NYC, US.
+- *2017.09 - 2022.01*, PhD, New York University, NYC, US.
 - *2015.09 - 2017.07*, Master, Beijing Jiaotong University, Beijing, China.
-- *2017.09 - 2022.01*, Undergraduate, Beijing Jiaotong University, Beijing, China.
+- *2011.09 - 2015.07*, Undergraduate, Beijing Jiaotong University, Beijing, China.
 
 <!-- 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
