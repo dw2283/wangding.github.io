@@ -4,13 +4,6 @@
 - *2020.10*, "Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit", Transportation in COVID-19 workshop by Tongji University and C2SMARTER.
 - *2020.12*, "Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit", Delft University of Technology TRAIL Seminar.
 
-
-# 📚 **Teaching Experience**
-- *Simulation Tutorial for Dr. Kaan Ozbay, Data-driven Mobility Modeling and Simulation*, Spring 2019  
-- *Guest Talk for Dr. Zhibin Chen, Simulation of Traffic*, Fall 2022  
-- *Teaching Assistant for Dr. Wenxin Qiao, Traffic Design*, Fall 2016  
-- *Teaching Assistant for Dr. Wenxin Qiao, Introduction to Traffic Engineering*, Spring 2016  
-
 # 🛠 **Services**
 
 **Journal Reviewer:** IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Systems, Man, and Cybernetics, Transportation Research Record, Transportation Research Board (TRB) Annual Meeting, Journal of Intelligent Transportation Systems，etc.
