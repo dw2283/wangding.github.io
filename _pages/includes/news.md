@@ -1,8 +1,8 @@
 
 # 🔥 News
-- *2025.12*: We released MemVerse, a multimodal memory framework for lifelong learning agents. Check out the GitHub.
+- *2025.12*: We released MemVerse, a multimodal memory framework for lifelong learning agents. Check out the  [**[Project]**](https://github.com/KnowledgeXLab/MemVerse) and [**[Website]**](https://dw2283.github.io/memverse.ai/).
 - *2025.11*: 🎉 ReBrain is accepted at WACV 2026!
-- *2025.10*: We released MGA, a memory-driven GUI agent for observation-centric interaction. Check out the GitHub.- 
+- *2025.10*: We released MGA, a memory-driven GUI agent for observation-centric interaction. Check out the  [**[Project]**](https://github.com/MintyCo0kie/MGA4OSWorld).- 
 - *2025.07*: 🎉 [HMRAG](https://github.com/ocean-luna/HMRAG) is accepted at ACM MM 2025!
 - *2025.07*: 🎉 [Valik](https://github.com/Wings-Of-Disaster/VaLiK) is accepted at ICCV 2025. See you in Hawaii!
 - *2024.06*: We released TransWorldNG, a powerful multi-agent framework for mobility simulation [TransWorldNG](https://github.com/SACLabs/TransWorldNG). 
