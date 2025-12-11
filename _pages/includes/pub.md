@@ -23,11 +23,61 @@ Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng,**Ding Wang***, Jun Ma*.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/memverse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MemVerse: Multimodal Memory for Lifelong Learning Agents \\
+
+
+[**Project**](https://arxiv.org/abs/2512.03627) <strong><span class='show_paper_citations' data='arXiv:2512.03627'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/MemVerse?style=social&label=Code+Stars)](https://github.com/KnowledgeXLab/MemVerse?tab=readme-ov-file)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/rebrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion \\
+
+
+[**Project**](https://arxiv.org/abs/2511.17068) <strong><span class='show_paper_citations' data='arXiv:2511.17068'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/ReBrain?style=social&label=Code+Stars)](https://arxiv.org/abs/2511.17068)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2025</div><img src='images/mga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MGA: Memory-Driven GUI Agent for Observation-Centric Interaction \\
+
+
+[**Project**](https://arxiv.org/abs/2510.24168) <strong><span class='show_paper_citations' data='arXiv:2510.24168'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/MGA?style=social&label=Code+Stars)](https://github.com/MintyCo0kie/MGA4OSWorld)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/timemkg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling \\
+
+
+[**Project**](https://arxiv.org/abs/2508.09630) <strong><span class='show_paper_citations' data='arXiv:2508.09630'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/TimeMKG?style=social&label=Code+Stars)](https://github.com/YifeiSunEcust/TimeMKG)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/rank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation \\
+
+
+[**Project**](https://arxiv.org/abs/2508.09497) <strong><span class='show_paper_citations' data='arXiv:2508.09497'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/DPS?style=social&label=Code+Stars)](https://arxiv.org/abs/2508.09497)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR Part A: Policy and Practice 2021</div><img src='images/matsim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit \\
-**Ding Wang**, Mohammad Tayarani, Brian Yueshuai He, Jingqin Gao, Joseph YJ Chow, Oliver Huaizhu Gao, Kaan Ozbay.
+
 
 [**Project**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
