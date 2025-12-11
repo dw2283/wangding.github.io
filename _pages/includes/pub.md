@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models \\
-J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang***
+J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2407.09038) [**[Code]**](https://github.com/Wings-Of-Disaster/VaLiK)
 </div>
@@ -15,7 +15,7 @@ J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang***
 <div class='paper-box-text' markdown="1">
 
 HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation \\
-P Liu, X Liu, R Yao, J Liu, S Meng, **Ding Wang***, J Ma*
+P Liu, X Liu, R Yao, J Liu, S Meng, **D Wang***, J Ma*
 
 [**[Paper]**](https://arxiv.org/abs/2501.00000) [**[Code]**](https://github.com/ocean-luna/HMRAG)
 </div>
@@ -25,7 +25,7 @@ P Liu, X Liu, R Yao, J Liu, S Meng, **Ding Wang***, J Ma*
 <div class='paper-box-text' markdown="1">
 
 MemVerse: Multimodal Memory for Lifelong Learning Agents \\
-J Liu, Y Sun, W Cheng, H Lei, Y Chen, L Wen, X Yang, D Fu, P Cai, N Deng, Y Yu, S Hu, B Shi, **D Wang**
+J Liu, Y Sun, W Cheng, H Lei, Y Chen, L Wen, X Yang, D Fu, P Cai, N Deng, Y Yu, S Hu, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2512.03627) [**[Code]**](https://github.com/KnowledgeXLab/MemVerse) [**[Website]**](https://dw2283.github.io/memverse.ai/)
 </div>
@@ -35,9 +35,9 @@ J Liu, Y Sun, W Cheng, H Lei, Y Chen, L Wen, X Yang, D Fu, P Cai, N Deng, Y Yu, 
 <div class='paper-box-text' markdown="1">
 
 ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion \\
-J Liu, Y Sun, W Cheng, Y Kang, Y Chen, **D Wang**, G Zeng
+J Liu, Y Sun, W Cheng, Y Kang, Y Chen, **D Wang***, G Zeng
 
-[**[Paper]**](https://arxiv.org/abs/2511.17068) [**[Code]**](https://github.com/ocean-luna/ReBrain)
+[**[Paper]**](https://arxiv.org/abs/2511.17068) [**[Code]**](https://arxiv.org/abs/2511.17068)
 </div>
 </div>
 
@@ -45,7 +45,7 @@ J Liu, Y Sun, W Cheng, Y Kang, Y Chen, **D Wang**, G Zeng
 <div class='paper-box-text' markdown="1">
 
 MGA: Memory-Driven GUI Agent for Observation-Centric Interaction \\
-W Cheng, E Ni, W Wang, Y Sun, J Liu, W Shen, Y Chen, B Shi, **D Wang**
+W Cheng, E Ni, W Wang, Y Sun, J Liu, W Shen, Y Chen, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2510.24168) [**[Code]**](https://github.com/MintyCo0kie/MGA4OSWorld)
 </div>
@@ -55,7 +55,7 @@ W Cheng, E Ni, W Wang, Y Sun, J Liu, W Shen, Y Chen, B Shi, **D Wang**
 <div class='paper-box-text' markdown="1">
 
 TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling \\
-Y Sun, J Liu, Y Chen, X Yan, **D Wang**
+Y Sun, J Liu, Y Chen, X Yan, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2508.09630) [**[Code]**](https://github.com/YifeiSunEcust/TimeMKG)
 </div>
@@ -65,7 +65,7 @@ Y Sun, J Liu, Y Chen, X Yan, **D Wang**
 <div class='paper-box-text' markdown="1">
 
 From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation \\
-S Meng, J Liu, Y Chen, S Mao, P Cai, G Yan, B Shi, **D Wang**
+S Meng, J Liu, Y Chen, S Mao, P Cai, G Yan, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2508.09497) [**[Code]**](https://arxiv.org/abs/2508.09497)
 </div>
