@@ -67,7 +67,7 @@ Y Sun, J Liu, Y Chen, X Yan, **D Wang**
 From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation \\
 S Meng, J Liu, Y Chen, S Mao, P Cai, G Yan, B Shi, **D Wang**
 
-[**[Paper]**](https://arxiv.org/abs/2508.09497) [**[Code]**](https://github.com/ocean-luna/DPS)
+[**[Paper]**](https://arxiv.org/abs/2508.09497) [**[Code]**](https://arxiv.org/abs/2508.09497)
 </div>
 </div>
 
@@ -77,7 +77,7 @@ S Meng, J Liu, Y Chen, S Mao, P Cai, G Yan, B Shi, **D Wang**
 Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit \\
 **D Wang**, M Tayarani, B He, J Gao, J Chow, H Gao, K Ozbay
 
-[**[Paper]**](https://doi.org/10.1016/j.tra.2021.09.005) [**[Code]**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/)
+[**[Paper]**](https://doi.org/10.1016/j.tra.2021.09.005) [**[Website]**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/)
 </div>
 </div>
 
