@@ -7,19 +7,17 @@
 VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models \\
 J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang***
 
-[**Project**](https://github.com/Wings-Of-Disaster/VaLiK) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/Wings-Of-Disaster/VaLiK)
+[**[Paper]**](https://arxiv.org/abs/2407.09038) [**[Code]**](https://github.com/Wings-Of-Disaster/VaLiK)
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/hmrag.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation \\
-Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng,**Ding Wang***, Jun Ma*.
+P Liu, X Liu, R Yao, J Liu, S Meng, **Ding Wang***, J Ma*
 
-[**Project**](https://github.com/ocean-luna/HMRAG) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/ocean-luna/HMRAG)
+[**[Paper]**](https://arxiv.org/abs/2501.00000) [**[Code]**](https://github.com/ocean-luna/HMRAG)
 </div>
 </div>
 
@@ -27,9 +25,9 @@ Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng,**Ding Wang***, Jun Ma*.
 <div class='paper-box-text' markdown="1">
 
 MemVerse: Multimodal Memory for Lifelong Learning Agents \\
+J Liu, Y Sun, W Cheng, H Lei, Y Chen, L Wen, X Yang, D Fu, P Cai, N Deng, Y Yu, S Hu, B Shi, **D Wang**
 
-
-[**Project**](https://arxiv.org/abs/2512.03627) <strong><span class='show_paper_citations' data='arXiv:2512.03627'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/MemVerse?style=social&label=Code+Stars)](https://github.com/KnowledgeXLab/MemVerse?tab=readme-ov-file)
+[**[Paper]**](https://arxiv.org/abs/2512.03627) [**[Code]**](https://github.com/KnowledgeXLab/MemVerse)
 </div>
 </div>
 
@@ -37,9 +35,9 @@ MemVerse: Multimodal Memory for Lifelong Learning Agents \\
 <div class='paper-box-text' markdown="1">
 
 ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion \\
+J Liu, Y Sun, W Cheng, Y Kang, Y Chen, **D Wang**, G Zeng
 
-
-[**Project**](https://arxiv.org/abs/2511.17068) <strong><span class='show_paper_citations' data='arXiv:2511.17068'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/ReBrain?style=social&label=Code+Stars)](https://arxiv.org/abs/2511.17068)
+[**[Paper]**](https://arxiv.org/abs/2511.17068) [**[Code]**](https://github.com/ocean-luna/ReBrain)
 </div>
 </div>
 
@@ -47,9 +45,9 @@ ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented D
 <div class='paper-box-text' markdown="1">
 
 MGA: Memory-Driven GUI Agent for Observation-Centric Interaction \\
+W Cheng, E Ni, W Wang, Y Sun, J Liu, W Shen, Y Chen, B Shi, **D Wang**
 
-
-[**Project**](https://arxiv.org/abs/2510.24168) <strong><span class='show_paper_citations' data='arXiv:2510.24168'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/MGA?style=social&label=Code+Stars)](https://github.com/MintyCo0kie/MGA4OSWorld)
+[**[Paper]**](https://arxiv.org/abs/2510.24168) [**[Code]**](https://github.com/MintyCo0kie/MGA4OSWorld)
 </div>
 </div>
 
@@ -57,9 +55,9 @@ MGA: Memory-Driven GUI Agent for Observation-Centric Interaction \\
 <div class='paper-box-text' markdown="1">
 
 TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling \\
+Y Sun, J Liu, Y Chen, X Yan, **D Wang**
 
-
-[**Project**](https://arxiv.org/abs/2508.09630) <strong><span class='show_paper_citations' data='arXiv:2508.09630'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/TimeMKG?style=social&label=Code+Stars)](https://github.com/YifeiSunEcust/TimeMKG)
+[**[Paper]**](https://arxiv.org/abs/2508.09630) [**[Code]**](https://github.com/YifeiSunEcust/TimeMKG)
 </div>
 </div>
 
@@ -67,19 +65,19 @@ TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modelin
 <div class='paper-box-text' markdown="1">
 
 From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation \\
+S Meng, J Liu, Y Chen, S Mao, P Cai, G Yan, B Shi, **D Wang**
 
-
-[**Project**](https://arxiv.org/abs/2508.09497) <strong><span class='show_paper_citations' data='arXiv:2508.09497'></span></strong>[![](https://img.shields.io/github/stars/ocean-luna/DPS?style=social&label=Code+Stars)](https://arxiv.org/abs/2508.09497)
+[**[Paper]**](https://arxiv.org/abs/2508.09497) [**[Code]**](https://github.com/ocean-luna/DPS)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR Part A: Policy and Practice 2021</div><img src='images/matsim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR Part A 2021</div><img src='images/matsim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit \\
+**D Wang**, M Tayarani, B He, J Gao, J Chow, H Gao, K Ozbay
 
-
-[**Project**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**](https://doi.org/10.1016/j.tra.2021.09.014) [**[Code]**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/)
 </div>
 </div>
 
@@ -87,7 +85,7 @@ Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines:
 - `ICCV 2025` [Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972), Junming Liu, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Botian Shi, **Ding Wang**. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/Wings-Of-Disaster/VaLiK)
 - `arXiv 2025` [HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330), Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng, **Ding Wang**, Jun Ma.
 -->
-
+ 
 - `arXiv 2025` [RAKG: Document-level Retrieval Augmented Knowledge Graph Construction](https://arxiv.org/abs/2504.09823), Hairong Zhang, Jiaheng Si, Guohang Yan, Boyuan Qi, Pinlong Cai, Song Mao, **Ding Wang**, Botian Shi.
 - `arXiv 2025` [FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments](https://arxiv.org/abs/2504.09941), Junming Liu, Guosun Zeng, **Ding Wang**, Yanting Gao, Yufei Jin.
 - `Procedia Computer Science 2025` [Assessing the Impact of Electric Vehicles on Traffic Emissions: An Agent-Based Modeling Approach considering Traveler Behavior Changes](https://doi.org/10.1016/j.procs.2025.01.057), **Ding Wang**, Mohammad Tayarani, Jingqin Gao, Zilin Bian, Kaan Ozbay, Oliver Huaizhu Gao, Joseph YJ Chow.
