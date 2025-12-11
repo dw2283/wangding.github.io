@@ -1,7 +1,7 @@
 
 # 🔥 News
 - *2025.12*: We released MemVerse, a multimodal memory framework for lifelong learning agents. Check out the  [**[Project]**](https://github.com/KnowledgeXLab/MemVerse) and [**[Website]**](https://dw2283.github.io/memverse.ai/).
-- *2025.11*: 🎉 ReBrain is accepted at WACV 2026!
+- *2025.11*: 🎉 [ReBrain](https://arxiv.org/abs/2511.17068) is accepted at WACV 2026!
 - *2025.10*: We released MGA, a memory-driven GUI agent for observation-centric interaction. Check out the  [**[Project]**](https://github.com/MintyCo0kie/MGA4OSWorld).- 
 - *2025.07*: 🎉 [HMRAG](https://github.com/ocean-luna/HMRAG) is accepted at ACM MM 2025!
 - *2025.07*: 🎉 [Valik](https://github.com/Wings-Of-Disaster/VaLiK) is accepted at ICCV 2025. See you in Hawaii!
@@ -10,3 +10,4 @@
 - *2022.03*: I join Shanghai Artificial Intelligence Laboratory as a researcher in Shanghai!
 - *2021.10*: Check out our multi-agent simulation test bed developed for New York City [MATSim-NYC](https://c2smarter.engineering.nyu.edu/development-and-tech-transfer-of-multi-agent-virtual-simulation-testbed-ecosystem/).
 
+https://arxiv.org/abs/2511.17068
