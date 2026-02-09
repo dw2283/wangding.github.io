@@ -3,43 +3,44 @@
 - *2021.06*, "Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit", ITS-NY Webinar - Emerging Trends. NY.
 - *2020.10*, "Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit", Transportation in COVID-19 workshop by Tongji University and C2SMARTER.
 - *2020.12*, "Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit", Delft University of Technology TRAIL Seminar. -->
-Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning. OpenKnowledge Webinar, Jun 2025.
-Agentic Simulation via Foundation Model. IEEE International Conference on Intelligent Transportation Systems, Oral Session, Sep 2023.
-Building Transportation Foundation Model via Generative Graph Transformer. IEEE International Conference on Intelligent Transportation Systems, Oral Session, Sep 2023.
-COVID-19 and future mobility for New York City Transit. 100th Annual Transportation Research Board Conference. Lectern Session. Jan 2021.
-Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit, ITS-NY Webinar - Emerging Trends. NY, Jun 2021.
-Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit, Transportation in COVID-19 workshop by Tongji University and C2SMARTER. Oct 2020.
-Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit, Delft University of Technology TRAIL Seminar. Dec 2020.
+- Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning. OpenKnowledge Webinar, Jun 2025.
+- Agentic Simulation via Foundation Model. IEEE International Conference on Intelligent Transportation Systems, Oral Session, Sep 2023.
+- Building Transportation Foundation Model via Generative Graph Transformer. IEEE International Conference on Intelligent Transportation Systems, Oral Session, Sep 2023.
+- COVID-19 and future mobility for New York City Transit. 100th Annual Transportation Research Board Conference. Lectern Session. Jan 2021.
+- Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit, ITS-NY Webinar - Emerging Trends. NY, Jun 2021.
+- Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit, Transportation in - COVID-19 workshop by Tongji University and C2SMARTER. Oct 2020.
+- Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit, Delft University of Technology TRAIL Seminar. Dec 2020.
 
 
 # 🛠 **Services**
 
-**Journal Reviewer:** 
+## **Journal Reviewer:** 
 <!-- IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Systems, Man, and Cybernetics, Transportation Research Record, Transportation Research Board (TRB) Annual Meeting, Journal of Intelligent Transportation Systems，etc. -->
-npj Sustainable Mobility and Transport
-International Conference on Computer Vision (ICCV)
-AAAI Conference on Artificial Intelligence (AAAI)
-IEEE Transactions on Intelligent Vehicles
-IEEE Transactions on Systems, Man, and Cybernetics
-Transportation Research Record
-Transportation Research Board Annual Meeting  (TRB)  
-IEEE Intelligent Transportation Systems Conference (ITSC) 
-Journal of Intelligent Transportation Systems
-Urban Informatics
-Knowledge-Based Systems
-Transport Policy
 
-**Community Services:** 
-Member of Women in Transportation of NYC
-Member of Institute of Electrical and Electronics Engineers (IEEE)
-Member of Transportation Research Board (TRB)
-Member of The American Society of Civil Engineers (ASCE)
-Member of The Chinese Overseas Transportation Association (COTA)
+- npj Sustainable Mobility and Transport
+- International Conference on Computer Vision (ICCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Systems, Man, and Cybernetics
+- Transportation Research Record
+- Transportation Research Board Annual Meeting  (TRB)  
+- IEEE Intelligent Transportation Systems Conference (ITSC) 
+- Journal of Intelligent Transportation Systems
+- Urban Informatics
+- Knowledge-Based Systems
+- Transport Policy
 
-**Conference Organization:** 
-Transportation in COVID-19 workshop by Tongji University and NYU C2SMARTER in October 2020
-Transportation 5.0 at the 26th IEEE International Conference on Intelligent Transportation Systems in September 2023
-Ethical guidelines and consensus for ensuring the trustworthiness of AI, a series of workshops from 2023 to 2024
+## **Community Services:** 
+- Member of Women in Transportation of NYC
+- Member of Institute of Electrical and Electronics Engineers (IEEE)
+- Member of Transportation Research Board (TRB)
+- Member of The American Society of Civil Engineers (ASCE)
+- Member of The Chinese Overseas Transportation Association (COTA)
+
+## **Conference Organization:** 
+- Transportation in COVID-19 workshop by Tongji University and NYU C2SMARTER in October 2020
+- Transportation 5.0 at the 26th IEEE International Conference on Intelligent Transportation Systems in September 2023
+- Ethical guidelines and consensus for ensuring the trustworthiness of AI, a series of workshops from 2023 to 2024
 
 
 <!--

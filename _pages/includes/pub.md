@@ -82,7 +82,7 @@ Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRR 2023</div><img src='images/trr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRR 2023</div><img src='images/trr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component \\
@@ -92,7 +92,7 @@ Multi-stage equitable bus-based hurricane evacuation model with a stochastic dri
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJTST 2021</div><img src='images/paper_covid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJTST 2021</div><img src='images/covid.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit \\
@@ -102,7 +102,7 @@ Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability 2021</div><img src='images/sustain.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability 2021</div><img src='images/sustain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Modeling and Analysis of Optimal Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation \\
