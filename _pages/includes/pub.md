@@ -86,7 +86,7 @@ Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines:
 <div class='paper-box-text' markdown="1">
 
 Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component \\
-**Wang D.***, Ozbay K.
+**D Wang***, K Ozbay
 
 [**[Paper]**](https://doi.org/10.1177/03611981221115053) 
 </div>
@@ -96,7 +96,7 @@ Multi-stage equitable bus-based hurricane evacuation model with a stochastic dri
 <div class='paper-box-text' markdown="1">
 
 Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit \\
-**Wang D.***, He B.Y., Gao J., Chow J.Y., Ozbay K., Iyer S.
+**D Wang***, B He, J Gao, J Chow, K Ozbay, S Iyer
 
 [**[Paper]**](https://doi.org/10.1016/j.ijtst.2021.03.007)
 </div>
@@ -106,7 +106,7 @@ Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City 
 <div class='paper-box-text' markdown="1">
 
 Modeling and Analysis of Optimal Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation \\
-**Wang D.***, Ozbay K., Bian Z.
+**D Wang***, K Ozbay, Z Bian
 
 [**[Paper]**](https://doi.org/10.3390/su13084444)
 </div>
