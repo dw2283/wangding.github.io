@@ -1,10 +1,13 @@
 
 # 🎖 **Honors and Awards**
-
+- **2024**: Outstanding Collaboration Award, CCSA
 - **2023**: Shanghai High-Level Overseas Talents Program  
-- **2021**: Most Cited Article of the Year, *International Journal of Transportation Science and Technology*  
+- **2021**: Most Cited Article for the Award Year (International Journal of Transportation Science and Technology) 
 - **2017**: NYU SoE Fellowship  
-- **2015**: Excellent Paper & Project Awards, *BJTU*  
+- **2015**: Excellent Paper Award in the 26th BJTU Annual Academic Symposium
+- **2013**: Excellent Project Award in BJTU Research Training Program
+
+
 
 <!--
 - *2021.10* Tencent Scholarship (Top 1%)
