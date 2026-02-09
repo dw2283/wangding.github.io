@@ -81,41 +81,38 @@ Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines:
 </div>
 </div>
 
-<!--
-- `ICCV 2025` [Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972), Junming Liu, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Botian Shi, **Ding Wang**. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/Wings-Of-Disaster/VaLiK)
-- `arXiv 2025` [HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330), Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng, **Ding Wang**, Jun Ma.
--->
- 
-- `arXiv 2025` [RAKG: Document-level Retrieval Augmented Knowledge Graph Construction](https://arxiv.org/abs/2504.09823), Hairong Zhang, Jiaheng Si, Guohang Yan, Boyuan Qi, Pinlong Cai, Song Mao, **Ding Wang**, Botian Shi.
-- `arXiv 2025` [FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments](https://arxiv.org/abs/2504.09941), Junming Liu, Guosun Zeng, **Ding Wang**, Yanting Gao, Yufei Jin.
-- `Procedia Computer Science 2025` [Assessing the Impact of Electric Vehicles on Traffic Emissions: An Agent-Based Modeling Approach considering Traveler Behavior Changes](https://doi.org/10.1016/j.procs.2025.01.057), **Ding Wang**, Mohammad Tayarani, Jingqin Gao, Zilin Bian, Kaan Ozbay, Oliver Huaizhu Gao, Joseph YJ Chow.
-- `Procedia Computer Science 2024` [An agent-based urban simulation to assess the system-wide, spatial, and modal impacts of the deployment of an automated vehicle corridor with mixed traffic: a case study in New York City](https://doi.org/10.1016/j.procs.2024.01.067), Hella Alnajjar, Kaan Ozbay, **Ding Wang**, Lamia Iftekhar.
-- `IEEE Transactions on Intelligent Vehicles 2023`  [Autonomous Services: The Evolution of Services Through Intelligent Vehicles](https://ieeexplore.ieee.org/document/10000006), Zheng Jing, Lefei Li, Yudan Lyu, Ridong Wang, Yutong Wang, **Ding Wang**, Fei-Yue Wang.
-- `IEEE Transactions on Intelligent Vehicles 2023`  [Mobility 5.0: Smart logistics and transportation services in cyber-physical-social systems](https://ieeexplore.ieee.org/document/10000005), Yilun Lin, Xiaoxiang Na, **Ding Wang**, Xingyuan Dai, Fei-Yue Wang.
-- `ITSC 2023`  [Transworldng: Traffic simulation via foundation model](https://ieeexplore.ieee.org/document/10000004), **Ding Wang**, Xuhong Wang, Liang Chen, Shengyue Yao, Ming Jing, Honghai Li, Shiqiang Bao, Li Li, Fei-Yue Wang, Yilun Lin.
-- `ITSC 2023` [Building transportation foundation model via generative graph transformer](https://ieeexplore.ieee.org/document/10000003), Xuhong Wang, **Ding Wang**, Liang Chen, Fei-Yue Wang, Yilun Lin.
-- `ITSC 2023` [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/document/10000007), Jingru Yu, Yi Yu, Shengyue Yao, **Ding Wang**, Pinlong Cai, Honghai Li, Li Li, Fei-Yue Wang, Yilun Lin.
-- `Transportation Research Record 2023`  [Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component](https://doi.org/10.1177/03611981211060411), **Ding Wang**, Kaan Ozbay.
-- `arXiv 2023`  [Evolutionary City: Towards a Flexible, Agile and Symbiotic System](https://arxiv.org/abs/2311.14690), Xi Chen, Wei Hu, Jingru Yu, **Ding Wang**, Shengyue Yao, Yilun Lin, Fei-Yue Wang.
-- `IEEE Transactions on Intelligent Vehicles 2023` [Autonomous Services: The Evolution of Services Through Intelligent Vehicles](https://ieeexplore.ieee.org/document/10000006), Zheng Jing, Lefei Li, Yudan Lyu, Ridong Wang, Yutong Wang, **Ding Wang**, Fei-Yue Wang.
-- `arXiv 2023`  [Mobility 5.0: Smart logistics and transportation services in cyber-physical-social systems](https://arxiv.org/abs/2311.14690), Yilun Lin, Xiaoxiang Na, **Ding Wang**, Xingyuan Dai, Fei-Yue Wang.
-- `Transportation Research Record 2023`  [Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component](https://doi.org/10.1177/03611981211060411), **Ding Wang**, Kaan Ozbay.
-- `arXiv 2023` [Evolutionary City: Towards a Flexible, Agile and Symbiotic System](https://arxiv.org/abs/2311.14690), Xi Chen, Wei Hu, Jingru Yu, **Ding Wang**, Shengyue Yao, Yilun Lin, Fei-Yue Wang.
-- `Sustainability 2021` [Modeling and Analysis Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation](https://www.mdpi.com/2071-1050/13/12/4444), **Ding Wang**, Kaan Ozbay, Zilin Bian.
-- `Transportation Research Part A: Policy and Practice 2021` [Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit](https://doi.org/10.1016/j.tra.2020.12.017), **Ding Wang**, Mohammad Tayarani, Brian Yueshuai He, Jingqin Gao, Joseph YJ Chow, Oliver Huaizhu Gao, Kaan Ozbay.
-- `Center for Transportation, Environment, and Community Health 2021` [Mobility in Post-Pandemic under Social Distancing Guidelines: Congestion, Emission and Transit Contact Network](https://www.ctechcenter.org/), **Ding Wang**, Mohammad Tayarani, Yueshuai He, Jingqin Gao, Oliver Gao, Kaan Ozbay, et al.
-- `Transport Policy 2021` [A validated multi-agent simulation test bed to evaluate congestion pricing policies on population segments by time-of-day in New York City](https://doi.org/10.1016/j.tranpol.2020.10.010), Brian Yueshuai He, Jinkai Zhou, Ziyi Ma, **Ding Wang**, Di Sha, Mina Lee, Joseph YJ Chow, Kaan Ozbay.
-- `International Journal of Transportation Science and Technology 2021` [Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit](https://doi.org/10.1016/j.ijtst.2021.01.001), **Ding Wang**, Brian Yueshuai He, Jingqin Gao, Joseph YJ Chow, Kaan Ozbay, Shri Iyer.
-- `Tech Report 2021` [A Polynomial Chaos Expansion Based Approach for Efficient and Robust Calibration of Stochastic Transportation Simulation Models](https://www.somresearch.com/paper/), Di Sha, Kaan Ozbay, Zilin Bian, **Ding Wang**.
-- `Sustainability 2021` [Modeling and Analysis Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation](https://www.mdpi.com/2071-1050/13/12/4444), **Ding Wang**, Kaan Ozbay, Zilin Bian.
-- `ITSC 2020` [A Mixture Model-based Clustering Method for Fundamental Diagram Calibration Applied in Large Network Simulation](https://ieeexplore.ieee.org/document/9285430), **Ding Wang**, Kaan Ozbay, Zilin Bian, et al.
-- `arXiv 2020` [Agent-based simulation model and deep learning techniques to evaluate and predict transportation trends around COVID-19](https://arxiv.org/abs/2010.09648), **Ding Wang**, Fan Zuo, Jingqin Gao, Yueshuai He, Zilin Bian, Suzana Duran Bernardes, Chaekuk Na, Jingxing Wang, John Petinos, Kaan Ozbay, et al.
-- `arXiv 2020` [Toward the "New Normal": A Surge in Speeding, New Volume Patterns, and Recent Trends in Taxis/For-Hire Vehicles](https://arxiv.org/abs/2009.14018), Jingqin Gao, Abhinav Bhattacharyya, **Ding Wang**, Nick Hudanich, Siva Sooryaa, Muruga Thambiran, Suzana Duran Bernardes, Chaekuk Na, Fan Zuo, Zilin Bian, et al.
-- `arXiv 2020` [Multi-agent simulation-based virtual test bed ecosystem: MATSim-NYC](https://arxiv.org/abs/2009.01049), Joseph YJ Chow, Kaan Ozbay, Yueshuai He, Jinkai Zhou, Mina Lee, **Ding Wang**, Di Sha, et al.
-- `TRB 2018` [Reliability Oriented Transit Signal Priority System](https://trid.trb.org/view/1496330), Wenxin Qiao, **Ding Wang**, H Jia.
-- `Journal of Advanced Transportation 2017` [Relieving the impact of transit signal priority on passenger cars through a bilevel model](https://doi.org/10.1155/2017/7696094), **Ding Wang**, Wenxin Qiao, Chunfu Shao.
-- `COTA 2017` [Balance of Reliability and Efficiency in Adaptive Signal Control Strategy](https://doi.org/10.1061/9780784480476.320), **Ding Wang**, Wenxin Qiao.
-- `COTA 2017` [Towards Sustainable Transport: A Transit Signal Priority Model Based on Emission and Delay Reduction](https://doi.org/10.1061/9780784480476.328), Wenxin Qiao, Yujie Sun, **Ding Wang**.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRR 2023</div><img src='images/trr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component \\
+**Wang D.***, Ozbay K.
+
+[**[Paper]**](https://doi.org/10.1177/03611981221115053) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJTST 2021</div><img src='images/paper_covid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit \\
+**Wang D.***, He B.Y., Gao J., Chow J.Y., Ozbay K., Iyer S.
+
+[**[Paper]**](https://doi.org/10.1016/j.ijtst.2021.03.007)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability 2021</div><img src='images/sustain.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Modeling and Analysis of Optimal Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation \\
+**Wang D.***, Ozbay K., Bian Z.
+
+[**[Paper]**](https://doi.org/10.3390/su13084444)
+</div>
+</div>
+
+
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
