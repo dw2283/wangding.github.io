@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ding Wang (王锭)"
-description              : "Focusing on knowledge platform development and agentic systems."
+description              : "Focusing on agentic AI systems and agent infrastructure."
 repository               : "dw2283/wangding.github.io"
 google_scholar_stats_use_cdn : true
 
