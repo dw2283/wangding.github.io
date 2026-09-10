@@ -1,19 +1,6 @@
 
 # 📝 Selected Publications 
 
-<div class="forthcoming-papers" markdown="1">
-
-### Forthcoming
-
-- **MemSelector** <span class="paper-status">Details coming soon</span>
-- **Memo** <span class="paper-status">Details coming soon</span>
-- **TransMem** <span class="paper-status">Details coming soon</span>
-- **MemCoT** <span class="paper-status">Details coming soon</span>
-- **HMO** <span class="paper-status">Details coming soon</span>
-- [**Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pebaAE0AAAAJ&sortby=pubdate&citation_for_view=pebaAE0AAAAJ:isC4tDSrTZIC) <span class="paper-status">Details coming soon</span>
-
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
