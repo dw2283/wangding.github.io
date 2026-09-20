@@ -37,11 +37,6 @@
 - Member of The American Society of Civil Engineers (ASCE)
 - Member of The Chinese Overseas Transportation Association (COTA)
 
-## **Conference Organization:** 
-- Transportation in COVID-19 workshop by Tongji University and NYU C2SMARTER in October 2020
-- Transportation 5.0 at the 26th IEEE International Conference on Intelligent Transportation Systems in September 2023
-- Ethical guidelines and consensus for ensuring the trustworthiness of AI, a series of workshops from 2023 to 2024
-
 
 <!--
 # 📖 Educations

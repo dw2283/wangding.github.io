@@ -46,25 +46,72 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    border-bottom: 1px solid #eef1f4;
+    padding: 1.65em 0;
+    transition: background-color 160ms ease;
+
+    &:hover {
+        background: #fbfcfd;
+    }
     
 
     .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 2;
-        img {
+        order: 1;
+
+        > div {
+            position: relative;
+            display: flex;
+            width: 100%;
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            aspect-ratio: 16 / 10;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            border: 1px solid #e5e9ed;
+            border-radius: 6px;
+            background: #fff;
+            box-shadow: 0 5px 16px rgba(20, 42, 66, 0.1);
+            transition: box-shadow 160ms ease, transform 160ms ease;
         }
+
+        img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            object-fit: contain;
+        }
+    }
+
+    &:hover .paper-box-image > div {
+        box-shadow: 0 8px 22px rgba(20, 42, 66, 0.15);
+        transform: translateY(-1px);
     }
     
     .paper-box-text{
         max-width: 100%;
-        order: 1;
+        order: 2;
+        padding-top: 1em;
+    }
+
+    @media (min-width: 480px) {
+        flex-wrap: nowrap;
+
+        .paper-box-image{
+            align-self: flex-start;
+            justify-content: left;
+            min-width: 0;
+            width: 40%;
+        }
+
+        .paper-box-text{
+            width: 60%;
+            padding-top: 0;
+            padding-left: 1.5em;
+        }
     }
     
     @include breakpoint($medium) {
@@ -78,6 +125,7 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
+            padding-top: 0;
             max-width: 60%;
             order: 2;
         }
@@ -85,6 +133,328 @@
     }
 
 
+}
+
+.paper-box-text > p:first-child {
+  margin-top: 0;
+  color: #555;
+  line-height: 1.55;
+}
+
+.paper-box-text > p:first-child strong:first-child {
+  color: #30363c;
+  font-size: 1.08em;
+  line-height: 1.4;
+}
+
+.paper-box-text > p:last-child {
+  margin-bottom: 0;
+}
+
+.paper-box-text > p:last-child a,
+.publication-highlight p:last-child a {
+  display: inline-block;
+  margin: 0.35em 0.35em 0 0;
+  padding: 0.18em 0.55em;
+  border: 1px solid #d9e2ec;
+  border-radius: 5px;
+  background: #f7f9fb;
+  font-size: 0.88em;
+  font-weight: 650;
+  text-decoration: none;
+  transition: border-color 140ms ease, background-color 140ms ease, color 140ms ease;
+}
+
+.paper-box-text > p:last-child a:hover,
+.publication-highlight p:last-child a:hover {
+  border-color: #9db3c8;
+  background: #eef4f9;
+}
+
+.paper-placeholder-image {
+  display: flex;
+  width: 100%;
+  aspect-ratio: 16 / 8.4;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed #ccd5dd;
+  border-radius: 4px;
+  background: #f7f9fa;
+  color: #929ca5;
+  font-size: 0.76em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.paper-box-placeholder .paper-box-text {
+  color: #737c84;
+}
+
+.paper-box-placeholder .paper-box-text > p:last-child {
+  color: #929aa1;
+  font-size: 0.86em;
+}
+
+.author-affiliation {
+  align-items: flex-start;
+  display: flex !important;
+}
+
+.author-affiliation > span {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.author-affiliation > span > span {
+  display: block;
+  line-height: 1.35;
+}
+
+.recruitment-callout {
+  margin: 1.25em 0 1.5em;
+  padding: 1em 1.15em;
+  border-left: 4px solid #d9534f;
+  background: #fff8f7;
+}
+
+.recruitment-callout h3 {
+  margin: 0 0 0.4em;
+  color: #b52b27;
+  font-size: 1.08em;
+}
+
+.recruitment-callout p:last-child {
+  margin-bottom: 0;
+}
+
+.forthcoming-papers {
+  margin: 0.75em 0 1.25em;
+  padding: 1em 1.2em;
+  border: 1px solid #e6ebef;
+  border-left: 4px solid #7a94ad;
+  border-radius: 0 6px 6px 0;
+  background: #f8fafc;
+}
+
+.forthcoming-papers h3 {
+  margin: 0 0 0.65em;
+  font-size: 1em;
+}
+
+.forthcoming-papers ul {
+  margin-bottom: 0;
+  padding-left: 1.25em;
+}
+
+.forthcoming-papers li {
+  margin-bottom: 0.25em;
+}
+
+.paper-status {
+  margin-left: 0.35em;
+  color: #9a9a9a;
+  font-size: 0.72em;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.publication-groups {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+  margin: 1.15em 0;
+}
+
+.publication-group {
+  --group-accent: #355f85;
+  overflow: hidden;
+  padding: 1.55em 1.75em 1.35em;
+  border: 1px solid #e1e7ec;
+  border-top: 4px solid var(--group-accent);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 6px 20px rgba(20, 42, 66, 0.065);
+}
+
+.publication-group:nth-child(2) {
+  --group-accent: #58766f;
+}
+
+.publication-group:nth-child(3) {
+  --group-accent: #7b668a;
+}
+
+.publication-group h2 {
+  margin: 0 0 0.45em;
+  padding-bottom: 0;
+  border-bottom: 0;
+  color: #263746;
+  font-size: 1.08em;
+  line-height: 1.35;
+
+  @include breakpoint($medium) {
+    font-size: 1.22em;
+  }
+}
+
+.publication-group > p {
+  margin: 0 0 1.1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e7edf1;
+  color: #66717b;
+  font-size: 0.87em;
+  line-height: 1.62;
+}
+
+.publication-highlight {
+  position: relative;
+  margin: 0;
+  padding: 0.5em 0 0.55em 1em;
+  border-bottom: 0;
+  font-size: 0.88em;
+  line-height: 1.52;
+}
+
+.publication-highlight::before {
+  position: absolute;
+  top: 0.9em;
+  left: 0;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--group-accent);
+  content: "";
+}
+
+.publication-highlight p {
+  margin: 0;
+}
+
+.publication-highlight strong:first-child {
+  color: #303942;
+  font-size: 1.04em;
+  line-height: 1.4;
+}
+
+.publication-forthcoming {
+  color: #6c747b;
+}
+
+.publication-group-link {
+  display: inline-block;
+  margin-top: 0;
+  color: var(--group-accent);
+  font-size: 1em;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.publication-group > p:has(.publication-group-link) {
+  margin: -0.35em 0 0.8em;
+  padding: 0;
+  border: 0;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+.publication-group > p:last-child {
+  margin: 0;
+}
+
+.all-publications-link {
+  margin: 1.35em 0 2em;
+  text-align: right;
+  font-weight: 600;
+}
+
+.research-area-nav {
+  margin: 0.65em 0 2em;
+  color: #737f88;
+  font-size: 0.88em;
+  line-height: 1.7;
+}
+
+.research-area-nav a {
+  color: #28679b;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.research-area-nav a:hover {
+  color: #174d78;
+  text-decoration: underline;
+}
+
+.research-area-nav > span {
+  margin-right: 0.35em;
+}
+
+.research-area-heading {
+  margin-top: 1.6em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #e8edf1;
+  color: #263746;
+  scroll-margin-top: 4em;
+}
+
+.research-area-index {
+  display: inline-block;
+  margin-right: 0.42em;
+  color: #6d879e;
+  font-size: 0.68em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  vertical-align: 0.12em;
+}
+
+#multimodal-knowledge-ai .research-area-index {
+  color: #66847c;
+}
+
+#multi-agent-systems .research-area-index {
+  color: #806c8d;
+}
+
+.back-to-top {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 20;
+  padding: 0.48em 0.75em;
+  border: 1px solid #dce4eb;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 4px 14px rgba(20, 42, 66, 0.1);
+  color: #465f75;
+  font-size: 0.78em;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.back-to-top:hover {
+  background: #f3f7fa;
+}
+
+@media (max-width: 479px) {
+  .publication-group {
+    padding: 1.3em 1.15em 1.15em;
+  }
+
+  .publication-highlight {
+    padding-left: 0.8em;
+  }
+
+  .paper-box {
+    padding: 1.4em 0;
+  }
+
+  .research-area-nav {
+    margin-bottom: 1.5em;
+  }
+
+  .back-to-top span {
+    display: none;
+  }
 }
 
 $scroll_offset : 2em;
@@ -95,15 +465,4 @@ h1:before, .anchor:before {
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
-}
-
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
 }

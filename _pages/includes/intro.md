@@ -1,16 +1,20 @@
 
 
-I am currently working on knowledge platform development and agentic systems to advance intelligent system design. If you are seeking any form of **academic cooperation**, please feel free to email me at [wangding@pjlab.org.cn](mailto: wangding@pjlab.org.cn) or [wangding.mellissa@gmail.com](mailto: wangding.mellissa@gmail.com) . <span style="color:red">We are hiring interns! </span> Please feel free to hit me up with your CV if interested.
+My research focuses on next-generation agentic AI that moves beyond stateless models toward intelligent systems capable of persistent memory, adaptive reasoning, and continuous self-improvement. I am particularly interested in how agents can organize and evolve their memories, scale reasoning at test time, and acquire new capabilities through long-term interaction.
 
-I received my Ph.D. from New York University, where I focused on large-scale multi-agent simulations for mobility in smart cities. Prior to that, I obtained both my bachelor’s and master’s degrees in Transportation Engineering and Planning from Beijing Jiaotong University. 
+My current work spans memory-centric and lifelong-learning agents, self-evolving multimodal reasoning, knowledge-augmented AI, and multi-agent systems. I explore emerging paradigms such as memory orchestration, test-time learning and reasoning, retrieval-augmented generation, and collaborative intelligence to build agents that are more personalized, reliable, and capable of operating in dynamic environments. I have published 30+ papers in leading journals and AI conferences. [![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Profile-blue?logo=Google-Scholar&style=flat)](https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en)
 
+<div class="recruitment-callout" markdown="1">
 
-My research focuses on the development of agentic AI systems and agent infrastructure, with applications in intelligent systems. I am specifically interested in advancing Knowledge Graphs (KG), Retrieval-Augmented Generation (RAG), agent memory, and lifelong learning agents. I have published 30+ papers at top journals and international conferences.  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Profile-blue?logo=Google-Scholar&style=flat)](https://scholar.google.com/citations?user=pebaAE0AAAAJ&hl=en) 
+### Join Our Research Team
 
-# 📖 Educations
-- *2017.09 - 2022.01*, PhD, New York University, NYC, US.
-- *2015.09 - 2017.07*, Master, Beijing Jiaotong University, Beijing, China.
-- *2011.09 - 2015.07*, Undergraduate, Beijing Jiaotong University, Beijing, China.
+I am looking for motivated **Research Fellows, PhD Students, Research Assistants, and Research Interns** to work with me on agentic AI systems, memory, and lifelong learning. If you are interested, please feel free to get in touch: [ding.wang@cityu-dg.edu.cn](mailto:ding.wang@cityu-dg.edu.cn) or [wangding.mellissa@gmail.com](mailto:wangding.mellissa@gmail.com).
+
+</div>
+
+# 📖 Education
+- **Ph.D.**, New York University
+- **M.S. & B.S.**, Beijing Jiaotong University
 
 <!-- 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.

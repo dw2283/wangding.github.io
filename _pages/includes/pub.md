@@ -1,80 +1,174 @@
 
-# 📝 Selected Publications 
+{% unless page.publication_section %}
+# 🧭 Research Areas
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
+<nav class="research-area-nav" aria-label="Research areas">
+  <a href="#agentic-ai-memory">Agentic AI & Memory</a><span aria-hidden="true">,</span>
+  <a href="#multimodal-knowledge-ai">Multimodal AI</a><span aria-hidden="true">,</span>
+  <a href="#multi-agent-systems">Multi-Agent Systems</a>
+</nav>
+{% endunless %}
+
+{% if page.publication_section == nil or page.publication_section == 'agentic' %}
+{% unless page.publication_section %}
+## <span class="research-area-index">01</span> Agentic AI, Memory & Lifelong Learning
+{: #agentic-ai-memory .research-area-heading }
+
+We develop agents that can retain, organize, and continually refine experience over long interactions, enabling persistent memory, adaptive reasoning, and lifelong learning.
+{% endunless %}
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/memselector.png' | relative_url }}" alt="MemSelector dynamic evidence selection framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models \\
-J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **D Wang***
+**MemSelector: Plug-and-Play Dynamic Evidence Selection for Memory-Grounded Reasoning**  
+Authors and venue information to be added.
 
-[**[Paper]**](https://arxiv.org/abs/2407.09038) [**[Code]**](https://github.com/Wings-Of-Disaster/VaLiK)
+Paper and Code links will be added.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/hmrag.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/mem-o.png' | relative_url }}" alt="Mem-O adaptive memory orchestration framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation \\
-P Liu, X Liu, R Yao, J Liu, S Meng, **D Wang***, J Ma*
+**Mem-O: Learning to Orchestrate Memories**  
+Authors and venue information to be added.
 
-[**[Paper]**](https://arxiv.org/abs/2501.00000) [**[Code]**](https://github.com/ocean-luna/HMRAG)
+Paper and Code links will be added.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/memverse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/transmem.png' | relative_url }}" alt="TransMem inference and self-distillation training framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MemVerse: Multimodal Memory for Lifelong Learning Agents \\
+**TransMem: Transforming Hidden States into Memory for Large Language Models**  
+H Lei, J Liu, Y Chen, P Cai, B Shi, **D Wang**\*, H Wang*
+
+Paper and Code links will be added.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/memcot.png' | relative_url }}" alt="Overview of the MemCoT framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought**  
+Authors and venue information to be added.
+
+[**[Paper]**](https://arxiv.org/abs/2604.08216) Code link will be added.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/hmo.png' | relative_url }}" alt="Hierarchical Memory Orchestration system architecture and workflow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Memory Orchestration for Personalized Persistent Agents**  
+Authors and venue information to be added.
+
+[**[Paper]**](https://arxiv.org/abs/2604.01670) Code link will be added.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/memverse.png' | relative_url }}" alt="MemVerse" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MemVerse: Multimodal Memory for Lifelong Learning Agents** \\
 J Liu, Y Sun, W Cheng, H Lei, Y Chen, L Wen, X Yang, D Fu, P Cai, N Deng, Y Yu, S Hu, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2512.03627) [**[Code]**](https://github.com/KnowledgeXLab/MemVerse) [**[Website]**](https://dw2283.github.io/memverse.ai/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/rebrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/mga.png' | relative_url }}" alt="MGA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion \\
-J Liu, Y Sun, W Cheng, Y Kang, Y Chen, **D Wang***, G Zeng
-
-[**[Paper]**](https://arxiv.org/abs/2511.17068) [**[Code]**](https://arxiv.org/abs/2511.17068)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2025</div><img src='images/mga.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-MGA: Memory-Driven GUI Agent for Observation-Centric Interaction \\
+**MGA: Memory-Driven GUI Agent for Observation-Centric Interaction** \\
 W Cheng, E Ni, W Wang, Y Sun, J Liu, W Shen, Y Chen, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2510.24168) [**[Code]**](https://github.com/MintyCo0kie/MGA4OSWorld)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/timemkg.png' alt="sym" width="100%"></div></div>
+{% endif %}
+{% if page.publication_section == nil or page.publication_section == 'multimodal' %}
+{% unless page.publication_section %}
+## <span class="research-area-index">02</span> Multimodal and Knowledge-Augmented AI
+{: #multimodal-knowledge-ai .research-area-heading }
+
+We combine language, vision, structured knowledge, and retrieval to make AI reasoning more grounded, reliable, and consistent across modalities.
+{% endunless %}
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/spatial-reasoning.png' | relative_url }}" alt="Overview of the SAGE self-evolving spatial reasoning framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling \\
+**Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency**  
+J Liu, Y Li, Y Sun, M Wang, P Koniusz, Y Chen, **D Wang\***
+
+[**[Paper]**](https://arxiv.org/abs/2605.18162) Code link will be added.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/valik.jpg' | relative_url }}" alt="VaLiK" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models** \\
+J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **D Wang***
+
+[**[Paper]**](https://arxiv.org/abs/2407.09038) [**[Code]**](https://github.com/Wings-Of-Disaster/VaLiK)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/hmrag.jpg' | relative_url }}" alt="HM-RAG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation** \\
+P Liu, X Liu, R Yao, J Liu, S Meng, **D Wang**\*, J Ma*
+
+[**[Paper]**](https://arxiv.org/abs/2501.00000) [**[Code]**](https://github.com/ocean-luna/HMRAG)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/rebrain.png' | relative_url }}" alt="ReBrain" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion** \\
+J Liu, Y Sun, W Cheng, Y Kang, Y Chen, **D Wang***, G Zeng
+
+[**[Paper]**](https://arxiv.org/abs/2511.17068) [**[Code]**](https://arxiv.org/abs/2511.17068)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/timemkg.png' | relative_url }}" alt="TimeMKG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling** \\
 Y Sun, J Liu, Y Chen, X Yan, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2508.09630) [**[Code]**](https://github.com/YifeiSunEcust/TimeMKG)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/rank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/rank.png' | relative_url }}" alt="Dynamic Passage Selector for RAG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation \\
+**From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation** \\
 S Meng, J Liu, Y Chen, S Mao, P Cai, G Yan, B Shi, **D Wang***
 
 [**[Paper]**](https://arxiv.org/abs/2508.09497) [**[Code]**](https://arxiv.org/abs/2508.09497)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR Part A 2021</div><img src='images/matsim.png' alt="sym" width="100%"></div></div>
+{% endif %}
+{% if page.publication_section == nil or page.publication_section == 'multiagent' %}
+{% unless page.publication_section %}
+## <span class="research-area-index">03</span> Multi-Agent Systems
+{: #multi-agent-systems .research-area-heading }
+
+We study how autonomous and simulated agents interact, coordinate, and make decisions in complex environments through collaborative intelligence.
+{% endunless %}
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/matsim.png' | relative_url }}" alt="Mobility in Post-Pandemic Economic Reopening" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit \\
+**Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines: Congestion, Emissions, and Contact Exposure in Public Transit** \\
 **D Wang**, M Tayarani, B He, J Gao, J Chow, H Gao, K Ozbay
 
 [**[Paper]**](https://doi.org/10.1016/j.tra.2021.09.005) [**[Website]**](https://c2smarter.engineering.nyu.edu/c2smart-mobility-data-dashboard-matsim/)
@@ -82,40 +176,45 @@ Mobility in Post-Pandemic Economic Reopening under Social Distancing Guidelines:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRR 2023</div><img src='images/trr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/trr.png' | relative_url }}" alt="Multi-stage Equitable Hurricane Evacuation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-stage equitable bus-based hurricane evacuation model with a stochastic driver availability component \\
+**Multi-stage Equitable Bus-based Hurricane Evacuation Model with a Stochastic Driver Availability Component** \\
 **D Wang***, K Ozbay
 
 [**[Paper]**](https://doi.org/10.1177/03611981221115053) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJTST 2021</div><img src='images/covid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/covid.jpg' | relative_url }}" alt="COVID-19 Behavioral Inertia and Transit Reopening" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit \\
+**Impact of COVID-19 Behavioral Inertia on Reopening Strategies for New York City Transit** \\
 **D Wang***, B He, J Gao, J Chow, K Ozbay, S Iyer
 
 [**[Paper]**](https://doi.org/10.1016/j.ijtst.2021.03.007)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability 2021</div><img src='images/sustain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/sustain.png' | relative_url }}" alt="Ride-Sourcing Services in Hurricane Evacuation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Modeling and Analysis of Optimal Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation \\
+**Modeling and Analysis of Optimal Strategies for Leveraging Ride-Sourcing Services in Hurricane Evacuation** \\
 **D Wang***, K Ozbay, Z Bian
 
 [**[Paper]**](https://doi.org/10.3390/su13084444)
 </div>
 </div>
 
+{% endif %}
+
+{% unless page.publication_section %}
+<a class="back-to-top" href="#about-me" aria-label="Back to top">↑ <span>Back to top</span></a>
+{% endunless %}
 
 
 <!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
@@ -127,7 +226,7 @@ Modeling and Analysis of Optimal Strategies for Leveraging Ride-Sourcing Service
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
@@ -140,7 +239,7 @@ Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
@@ -154,7 +253,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
@@ -199,7 +298,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## 👄 TalkingFace & Avatar
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
